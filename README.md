@@ -59,17 +59,11 @@ Our goal is to build Italy's leading digital ecosystem dedicated to dog owners a
 
 ## 📸 Platform Preview
 
-Di seguito le schermate estratte dal progetto. Clicca sulle immagini per vederle a grandezza naturale.
-
 <p align="center">
   <a href="IMG_0404.jpeg"><img src="IMG_0404.jpeg" alt="Home Page" width="300" /></a>
   <a href="IMG_0405.jpeg"><img src="IMG_0405.jpeg" alt="Professional Profiles" width="300" style="margin-left:12px" /></a>
   <a href="IMG_0406.jpeg"><img src="IMG_0406.jpeg" alt="Service Directory" width="300" style="margin-left:12px" /></a>
 </p>
-
-* Home Page — Anteprima della homepage
-* Professional Profiles — Schede dei professionisti
-* Service Directory — Elenco dei servizi
 
 ---
 
