@@ -72,8 +72,7 @@ Our goal is to build Italy's leading digital ecosystem dedicated to dog owners a
 - HTML
 - CSS
 - JavaScript
-- Firebase
-- Git & GitHub
+- MySQL
 
 ---
 
@@ -91,7 +90,7 @@ https://fordoggo.it
 
 ## ❤️ Built by
 
-Developed with passion by **NovaCoding**
+Developed by **NovaCoding** and **Aerrecom***
 
 If you like the project, don't forget to ⭐ the repository.
 
