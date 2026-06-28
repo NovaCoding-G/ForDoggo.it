@@ -90,7 +90,7 @@ https://fordoggo.it
 
 ## ❤️ Built by
 
-Developed by **NovaCoding** and **Aerrecom***
+Developed by **NovaCoding** and **Aerrecom**
 
 If you like the project, don't forget to ⭐ the repository.
 
