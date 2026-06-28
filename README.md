@@ -8,7 +8,7 @@
 
 Connecting dog owners with trusted pet professionals across Italy.
 
-**ForDoggo is currently in beta.**
+**ForDoggo is currently in beta(site preview).**
 **We’re building it together with the community.**
 **Your feedback helps shape the platform.**
 
@@ -24,7 +24,7 @@ ForDoggo is an Italian startup building a modern platform for the pet care indus
 
 Our mission is to simplify the way dog owners discover trusted professionals while helping businesses increase their online visibility through an intuitive and accessible platform.
 
-Whether you're looking for a dog sitter, groomer, boarding facility or veterinarian, ForDoggo aims to become the place where everything starts.
+Whether you're looking for a dog sitter, groomer or dog boarding, ForDoggo aims to become the place where everything starts.
 
 ---
 
@@ -35,7 +35,6 @@ Whether you're looking for a dog sitter, groomer, boarding facility or veterinar
 - ✂️ Groomer profiles
 - 🏡 Boarding facilities
 - 🦮 Dog sitter listings
-- 🩺 Veterinarian listings
 - 📱 Responsive interface
 - 🔒 Privacy-focused platform
 
