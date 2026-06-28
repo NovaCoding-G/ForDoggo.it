@@ -43,7 +43,7 @@ Whether you're looking for a dog sitter, groomer, boarding facility or veterinar
 
 ## 🚀 Roadmap
 
-- ✅ Website Launch
+- ✅ Beta website Launch
 - 🔄 Community Growth
 - 📱 Mobile Application
 - ⭐ Online Booking
