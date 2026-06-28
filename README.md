@@ -1,2 +1,104 @@
-# ForDoggo.it
-🐶ForDoggo is an Italian startup project designed to simplify the way pet owners find reliable pet care services. The platform connects customers with verified professionals through a clean and intuitive web experience.
+<div align="center">
+
+# 🐶 ForDoggo
+
+### The digital home for every dog lover.
+
+Connecting dog owners with trusted pet professionals across Italy.
+
+🌐 **https://fordoggo.it**
+
+</div>
+
+---
+
+## About
+
+ForDoggo is an Italian startup building a modern platform for the pet care industry.
+
+Our mission is to simplify the way dog owners discover trusted professionals while helping businesses increase their online visibility through an intuitive and accessible platform.
+
+Whether you're looking for a dog sitter, groomer, boarding facility or veterinarian, ForDoggo aims to become the place where everything starts.
+
+---
+
+## ✨ Current Features
+
+- 🐶 Pet services directory
+- 👤 Professional accounts
+- ✂️ Groomer profiles
+- 🏡 Boarding facilities
+- 🦮 Dog sitter listings
+- 🩺 Veterinarian listings
+- 📱 Responsive interface
+- 🔒 Privacy-focused platform
+
+---
+
+## 🚀 Roadmap
+
+- ✅ Website Launch
+- 🔄 Community Growth
+- 📱 Mobile Application
+- ⭐ Online Booking
+- 💬 Reviews & Ratings
+- 🤝 Premium Services
+- 🌍 Nationwide Expansion
+
+---
+
+## 🎯 Vision
+
+We believe finding reliable pet services should be simple.
+
+Our goal is to build Italy's leading digital ecosystem dedicated to dog owners and pet professionals.
+
+---
+
+## 📸 Platform Preview
+
+> Add screenshots of the homepage here.
+
+```
+Home Page
+Professional Profiles
+Service Directory
+```
+
+---
+
+## 🛠 Tech Stack
+
+- HTML
+- CSS
+- JavaScript
+- Firebase
+- Git & GitHub
+
+---
+
+## 🌐 Website
+
+https://fordoggo.it
+
+---
+
+## 📬 Contact
+
+📧 info@fordoggo.it
+
+---
+
+## ❤️ Built by
+
+Developed with passion by **NovaCoding**
+
+If you like the project, don't forget to ⭐ the repository.
+
+---
+
+<div align="center">
+
+### 🐾 Building the future of pet care, one connection at a time.
+
+</div>
