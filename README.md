@@ -2,6 +2,8 @@
 
 # 🐶 ForDoggo
 
+![Anteprima ForDoggo](9BB294D3-9058-4490-816A-D040C7D9923D.png)
+
 ### The digital home for every dog lover.
 
 Connecting dog owners with trusted pet professionals across Italy.
