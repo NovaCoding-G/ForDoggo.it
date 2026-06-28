@@ -20,7 +20,7 @@ Connecting dog owners with trusted pet professionals across Italy.
 
 ## About
 
-ForDoggo is an Italian startup building a modern platform (currenty in Beta) for the pet care industry.
+ForDoggo is an Italian startup building a modern platform for the pet care industry.
 
 Our mission is to simplify the way dog owners discover trusted professionals while helping businesses increase their online visibility through an intuitive and accessible platform.
 
