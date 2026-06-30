@@ -75,7 +75,6 @@ Our goal is to build Italy's leading digital ecosystem dedicated to dog owners a
 - HTML
 - CSS
 - JavaScript
-- MySQL
 
 ---
 
